@@ -29,4 +29,4 @@ fn operate(operator: char, first_number: f32, second_number: f32) -> f32 {
     '*' | 'X' | 'x' => first_number * second_number,
     _ => panic!("Invalid operator used."),
   }
-}
+}asdfdasfasdfasdf
